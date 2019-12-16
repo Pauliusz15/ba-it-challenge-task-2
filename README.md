@@ -1,5 +1,7 @@
 # BA IT challenge second task
 
+#### May not work because of CORS, so CORS installation on Express server may be needed!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
